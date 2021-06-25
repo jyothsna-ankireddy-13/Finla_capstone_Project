@@ -1,13 +1,13 @@
 # Project Title
 
-We have tried to fabricate a Whatsapp-Clone with some of it's
+We have tried to fabricate a WhatsApp-Clone with some of it's
 senior features.
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)
 
 ## Installation
 
-Install the Whatsapp-Clone with npm
+Install the WhatsApp-Clone with npm
 
 ```bash
   npm install
